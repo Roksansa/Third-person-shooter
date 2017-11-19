@@ -15,6 +15,7 @@ The project is based on the examples given in the book "Unity in action" - https
 but it does not copy them.
 
 The project uses only freeware files.
+
 The project is aimed at beginners in developing games for unity.
 
 
