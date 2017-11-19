@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: a56261117cd183740802a05909b16dff
+timeCreated: 1507098160
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: DrawCall_640
+    100002: DrawCall_641
+    100004: DrawCall_642
+    100006: DrawCall_643
+    100008: DrawCall_644
+    100010: DrawCall_645
+    100012: DrawCall_646
+    100014: DrawCall_647
+    100016: DrawCall_648
+    100018: DrawCall_649
+    100020: //RootNode
+    400000: DrawCall_640
+    400002: DrawCall_641
+    400004: DrawCall_642
+    400006: DrawCall_643
+    400008: DrawCall_644
+    400010: DrawCall_645
+    400012: DrawCall_646
+    400014: DrawCall_647
+    400016: DrawCall_648
+    400018: DrawCall_649
+    400020: //RootNode
+    2300000: DrawCall_640
+    2300002: DrawCall_641
+    2300004: DrawCall_642
+    2300006: DrawCall_643
+    2300008: DrawCall_644
+    2300010: DrawCall_645
+    2300012: DrawCall_646
+    2300014: DrawCall_647
+    2300016: DrawCall_648
+    2300018: DrawCall_649
+    3300000: DrawCall_640
+    3300002: DrawCall_641
+    3300004: DrawCall_642
+    3300006: DrawCall_643
+    3300008: DrawCall_644
+    3300010: DrawCall_645
+    3300012: DrawCall_646
+    3300014: DrawCall_647
+    3300016: DrawCall_648
+    3300018: DrawCall_649
+    4300000: DrawCall_640
+    4300002: DrawCall_641
+    4300004: DrawCall_642
+    4300006: DrawCall_643
+    4300008: DrawCall_644
+    4300010: DrawCall_645
+    4300012: DrawCall_646
+    4300014: DrawCall_647
+    4300016: DrawCall_648
+    4300018: DrawCall_649
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - DrawCall_640
+    - DrawCall_641
+    - DrawCall_642
+    - DrawCall_643
+    - DrawCall_644
+    - DrawCall_645
+    - DrawCall_646
+    - DrawCall_647
+    - DrawCall_648
+    - DrawCall_649
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: frame00606677(Clone)(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DrawCall_640
+      parentName: frame00606677(Clone)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DrawCall_641
+      parentName: frame00606677(Clone)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DrawCall_642
+      parentName: frame00606677(Clone)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DrawCall_643
+      parentName: frame00606677(Clone)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DrawCall_644
+      parentName: frame00606677(Clone)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DrawCall_645
+      parentName: frame00606677(Clone)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DrawCall_646
+      parentName: frame00606677(Clone)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DrawCall_647
+      parentName: frame00606677(Clone)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DrawCall_648
+      parentName: frame00606677(Clone)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DrawCall_649
+      parentName: frame00606677(Clone)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
